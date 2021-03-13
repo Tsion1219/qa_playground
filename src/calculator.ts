@@ -5,3 +5,6 @@ const calculator = {
   divide: (a, b) => a / b,
 };
 export default calculator;
+add: 2;
+add:3;
+add: (2,3) => 5;
